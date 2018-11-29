@@ -1,0 +1,25 @@
+{
+  "name": "3-css-variables",
+  "version": "1.0.0",
+  "description": "Day 3 of JavaScript 30 days challenge https://github.com/mapu77/js-30-days-challenge",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapu77/3-css-variables.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mapu77/3-css-variables/issues"
+  },
+  "homepage": "https://github.com/mapu77/3-css-variables#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
